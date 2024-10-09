@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728067908.37642 "/workspaces/m1-2024-cv-asow1802/main.tex" "main.pdf" "main" 1728067909.32111 0
+["pdflatex"] 1728509086.09448 "/workspaces/m1-2024-cv-asow1802/main.tex" "main.pdf" "main" 1728509087.71397 0
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -223,15 +223,19 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727588394 5477429 32a2a3a09e7e10c5f90c819db1b0ec36 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727588482 3325968 1f59dab4160edcf8a7f91cc09891f231 ""
   "/usr/local/texlive/2024/texmf.cnf" 1727588390 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "/workspaces/m1-2024-cv-asow1802/main.tex" 1728067908.01903 6810 34e92aed4110ca5fccf3cd05ff8f851a ""
-  "disney.png" 1728064703.50314 5035 8a5c2644f0b9fa9ec72617e5b776c472 ""
-  "jack.jpg" 1728064703.50314 203784 2738576fd541d648ba9772042bc98def ""
-  "main.aux" 1728067909.16303 205 0977610a54069ef75bddde8b4cc80a32 "pdflatex"
-  "main.out" 1728067908.97103 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1728067908.01903 6810 34e92aed4110ca5fccf3cd05ff8f851a ""
-  "medal.jpeg" 1728064703.50314 9864 73e240492352dbf26d4ab122705bd599 ""
+  "/workspaces/m1-2024-cv-asow1802/main.tex" 1728509085.66481 7109 0a7b770b870f79907f549009e469ed6c ""
+  "ablayesow.jpeg" 1728070659.82694 240031 aa7becf0cd69da9a7ae167b49ff6f63f ""
+  "file.png" 1728506421.88475 21543 64fe8cfed0e76807bcd17d793e9ce088 ""
+  "main.aux" 1728509087.51681 302 fd095bdcccb1fd782d9e107d90f6f352 "pdflatex"
+  "main.out" 1728509087.51681 35 9534070c232aa0a3f935cb7c3e3f8d46 "pdflatex"
+  "main.tex" 1728509085.66481 7109 0a7b770b870f79907f549009e469ed6c ""
   "simplehipstercv.cls" 1728064703.50314 10757 c85c243d06d400a6ac177620d621773b ""
   "simplehipstercv.sty" 1728064703.50714 7602 33d8e1cbb66e831aa1a5c8e3acebd6cd ""
+  "strasbourg.png" 1728071162.21092 3305 b1da34e8aa6e6aeb1bf7bd19dbd86bdd ""
+  "ucad.png" 1728071342.00691 9213 bc1fc2b5de651e759d4cad968eaf132a ""
+  "ucad2.png" 1728506211.54075 16495 88282c465fa9e43c2a1029ceaaef7b9f ""
+  "unistra.png" 1728071157.38292 4045 46784fd51ec106d545fc2b34ebe91b9a ""
+  "valdiodio.jpeg" 1728071666.2189 9960 8f9ec14b8c7afea7dd467d1ef09d07b1 ""
   (generated)
   "main.aux"
   "main.log"
